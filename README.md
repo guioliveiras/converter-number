@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-<br> O programa tem como finalidade converter números escritos por extenso ou da forma reduzida para valores númericos.
+O programa tem como finalidade converter números escritos por extenso ou da forma reduzida para valores númericos.
 
 <br>
 
@@ -10,9 +10,7 @@
 
     Forma Reduzida:     3.5k, 7m, 8g, etc..
 
-***
-
-## <p style="text-align: center;"> Instruções de utilização</p><br>
+## Instruções de Utilização
 
 1. Na pasta em que se encontra o aplicativo *number-conveter.py* crie um arquivo no formato **.txt** no qual irá inserir o(s) número(s) ao qual deseja realizar a conversão númerica;
 
@@ -22,13 +20,11 @@
 
 2. Execute o programa;
 
-3. Pronto! Seu números foram convertidos e armazenados em um arquivo no formato **.txt** com nome *output.txt*.
+3. Pronto! Seus números foram convertidos e armazenados em um arquivo no formato **.txt** com nome *output.txt*.
 
 <br>
 
-***
-
-## <p style="text-align: center;"> Tecnologias Utilizadas </p>
+## Tecnologias Utilizadas
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,7 +34,9 @@
 <br>
 
 ***
-<br>
-<p style="text-align: center;"> 30 de outrubro de 2022</p>
+
+<div style="display: inline_block" align="center"><br>
+
+ 30 de outrubro de 2022
 
 [Guilherme Oliveira](https://github.com/guioliveiras)
