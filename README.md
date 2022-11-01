@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O programa tem como finalidade converter números escritos por extenso ou da forma reduzida para valores númericos.
+O programa tem como finalidade converter números escritos por extenso ou da forma reduzida para valores numéricos.
 
 <br>
 
